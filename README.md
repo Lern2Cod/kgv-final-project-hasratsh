@@ -11,4 +11,4 @@ HASRAT SETIAWAN HAREFA | 181401085
 ### 3 : Menggerakkan pesawat ke kiri
 ### 4 : Menggerakkan pesawat ke kanan
 
-![](https://drive.google.com/file/d/1OqyBl_whYmIvQQMFoHFYoKxT-RMptSji/view?usp=sharing)
+![](https://ibb.co/FqsSjs0)
