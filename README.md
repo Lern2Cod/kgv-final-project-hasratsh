@@ -6,9 +6,9 @@ HASRAT SETIAWAN HAREFA | 181401085
 ## INTERIOR RUANG TAMU
 
 ### Function Keybord :
-### 1 : Menggerakkan pesawat ke atas
-### 2 : Menggerakkan pesawat ke bawah
-### 3 : Menggerakkan pesawat ke kiri
-### 4 : Menggerakkan pesawat ke kanan
+1 : Menggerakkan objek ke atas
+2 : Menggerakkan objek ke bawah
+3 : Menggerakkan objek ke kiri
+4 : Menggerakkan objek ke kanan
 
 ![](https://i.ibb.co/P1pvPWW/VID-20200614-WA0022.gif)
